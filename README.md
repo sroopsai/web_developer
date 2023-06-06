@@ -7,3 +7,5 @@ This is a monorepo that contains frontend and backend projects. In the future, i
 - [Cat Photo Application](https://sroopsai.github.io/web_developer/responsive_web_design/catphotoapp/)
 
 - [Coffee Menu](https://sroopsai.github.io/web_developer/responsive_web_design/coffeemenu) 
+
+- [Colored Markers](https://sroopsai.github.io/web_developer/responsive_web_design/coloredmarkers)
